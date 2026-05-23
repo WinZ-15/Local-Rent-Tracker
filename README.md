@@ -3,7 +3,7 @@
 A local desktop-based Rent Management System built using Python and Tkinter.
 Designed to efficiently manage 1000+ tenants, it allows tracking of tenant details, monthly billing, utilities, and payment history.
 The application focuses on speed, simplicity, and real-world usability for medium-scale rental management.
-
+<br>
 ⚙️ Core Features
 🧾 Tenant Management
 
@@ -147,5 +147,9 @@ Click to instantly load tenants
 Search tenants by name
 Automatically:
 
+Setting button
+Change Global rent 
+new Records will use the new rent 
+old record remain the same
 Highlights match
 Scrolls to tenant
